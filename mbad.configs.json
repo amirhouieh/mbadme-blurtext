@@ -1,0 +1,4 @@
+{
+  "vars_source_path": "/src/mbad.vars.ts",
+  "vars_output_path": "/src/mbad.vars.json"
+}
